@@ -1,7 +1,7 @@
 (function (window) {
 	function myLib() {
 		let myLib = {
-			name: 'Daily'
+			name: "Ahmad"
 		}
 
 		return myLib
