@@ -1,3 +1,3 @@
-import library from './index.js';
+import { myLib } from "./index.js";
 
-console.log(library);
+console.log('lib = ' + myLib);
